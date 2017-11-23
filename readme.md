@@ -20,8 +20,8 @@ Instructions to use:
 Authors
 =======
 
-Lohitaksh Parmar
-Varun Bansal
-Pulkit Goel
+- Lohitaksh Parmar (lohitaksh14059@iiitd.ac.in)
+- Varun Bansal (varun13168@iiitd.ac.in)
+- Pulkit Goel (pulkit15158@iiitd.ac.in)
 
-Under guidance of Dr. Aman Parnami (Faculty, IIIT Delhi)
+Under guidance of Dr. Aman Parnami (Faculty, IIIT Delhi) (aman@iiitd.ac.in)
