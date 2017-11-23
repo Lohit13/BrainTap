@@ -7,7 +7,7 @@ A collection of utility applications that uses real time input from the brain us
 
 Lets you control the cursor of your computer using nothing but your brain.
 
-Install dependencies: sudo pip install -r requirements.txt
+Install dependencies: `sudo pip install -r requirements.txt`
 
 Instructions to use:
 1. Connect Muse headband to the MuseMonitor app.
